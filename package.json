@@ -1,6 +1,6 @@
 {
   "name": "opensourcetoolkit",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "A modern, comprehensive collection of developer and utility tools built with Next.js 15, React 19, and TypeScript. Designed for developers, security professionals, and anyone who needs reliable, fast, and secure utility tools.",
   "main": "src/index.ts",
   "scripts": {
